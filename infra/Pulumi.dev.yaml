@@ -1,0 +1,10 @@
+config:
+  aws:region: us-east-1
+
+  project:domainProperties:
+    bucketName: 'dev-bc-store-admin.botcircuits.com'
+    domainName: 'botcircuits.com'
+    domainNamePrefix: 'dev-bc-store-admin.botcircuits.com'
+    hostedZoneId: 'Z01878721NC69N9ERSFU6'
+    acmCertificateArn: 'arn:aws:acm:us-east-1:893502944061:certificate/0f494868-9d2d-431d-bb08-e2c5aa1f9e6c'
+    wwwEnable: false
